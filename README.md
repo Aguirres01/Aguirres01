@@ -7,4 +7,4 @@
 - 📫 How to reach me: andrmarlon@gmail.com
 - 😄 Pronouns: He/his
 
-![Atronaut (https://tenor.com/view/astronaut-gif-14847479)
+![Astronaut.GIF] (https://tenor.com/view/astronaut-gif-14847479)
