@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/his
 
 
-![Astronaut GIF](https://tenor.com/view/astronaut-gif-14847479.gif)
+![Astronaut GIF](https://tenor.com/view/blaster19451-gif-22517816.gif)
