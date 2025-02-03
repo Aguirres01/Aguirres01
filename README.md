@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Marlon Aguirre
 
 - 🔭 I’m currently working on  ✈ Mechanical Aircraft
-- 🌱 I’m currently learning  HTML, CSS, JS
-- 🤔 I’m looking for help with  career transition
+- 🌱 I’m currently learning  Java, Spring boot, postgres, Docker, Spring security.
+- 🤔 I’m looking for oportunity Backend jr
 - 💬 Ask me about ... 
 - 📫 How to reach me: andrmarlon@gmail.com
 
